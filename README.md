@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moathallqumani
-- 👀 I’m interested in Gaming development, Cyber Security, App development
-- 🌱 I’m currently learning App development, Gaming Development using Unreal Engine
+- 👀 I’m  Product manager, Flutter developer, Native android devloper
+- 🌱 I’m currently improving and working in Application development, Prodcut management
 - 💞️ I’m looking to collaborate on any social platforme 
 - 📫 How to reach me IG d_x1t
 
