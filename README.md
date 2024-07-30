@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @moathallqumani
-- 👀 I’m  Product manager, Flutter developer, Native android devloper
-- 🌱 I’m currently improving and working in Application development, Prodcut management
+- 👀 I’m  Product manager, Web Developer
+- 🌱 I’m currently improving and working as Full stack development.
 - 💞️ I’m looking to collaborate on any social platforme 
-- 📫 How to reach me IG d_x1t
+
 
 <!---
 moathallqumani/moathallqumani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
